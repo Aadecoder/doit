@@ -1,5 +1,5 @@
-# termit
+# doit
 
-This is a simple ToDo list website made using React.js with a vim twist
+This is a simple ToDo list website made using React.js
 
 
